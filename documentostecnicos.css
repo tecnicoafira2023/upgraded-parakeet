@@ -1,0 +1,123 @@
+/* Estilos gerais */
+
+  
+.recuo {
+        text-indent: 2em; /* Define o recuo de 2 espaços (tamanho pode variar) */
+        margin-left: 0; /* Remove a margem esquerda padrão */
+  padding: 0px;
+  margin-bottom: 15px;
+  text-align: justify;
+  line-height: 1.5;
+    }
+
+.classe-do-elemento {
+    text-align: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  text-align: justify;
+  line-height: 1.5;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Estilos do cabeçalho */
+
+header {
+    background-color: #f5f5f5;
+    padding: 0px;
+    text-align: center;
+    overflow: auto; /* Limpa o float */
+}
+
+h1 {
+    float: auto;
+    margin-right: 0px;
+}
+
+h2 {
+    float: auto;
+    margin-right: 0px;
+}
+
+h3 {
+    float: auto;
+    margin-right: 0px;
+}
+
+
+img {
+    float: auto;
+  width: 0x;
+  height: 0px;
+
+}
+
+/* Estilos da navegação */
+
+.classe-do-elemento {
+    text-align: center;
+}
+nav {
+    background-color: #333;
+    padding: 10px;
+}
+
+header img {
+    width: 100px; /* Defina o tamanho desejado para o logo */
+    height: auto; /* Mantém a proporção da imagem */
+    margin-bottom: 0px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+}
+
+/* Estilos do conteúdo principal */
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+section h2 {
+    margin-bottom: 10px;
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+/* Estilos do rodapé */
+footer {
+    background-color: #f5f5f5;
+    padding: 10px;
+    text-align: center;
+}
